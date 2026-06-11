@@ -1,4 +1,4 @@
-# Frontend Broker
+# Reusable React Setup
 
 A modern, Groww-inspired frontend application built using React, TypeScript, Vite, Tailwind CSS, and ShadCN UI.
 
