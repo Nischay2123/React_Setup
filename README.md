@@ -1,6 +1,6 @@
 # Reusable React Setup
 
-A modern, Groww-inspired frontend application built using React, TypeScript, Vite, Tailwind CSS, and ShadCN UI.
+This repository is a reusable TypeScript react setup for building frontend web applications with feature-based architecture and using shadCN as the ui library.
 
 ---
 
